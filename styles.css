@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #ffffff;
+  font-family: 'Bad Script', cursive;
+  color: #40514E;
+}
+
+.Contact-Me {
+  margin: 50px auto;
+}
+.btnc {
+  box-shadow: 0 2px 4px 0 #10554b;
+	background:linear-gradient(to bottom, #11cdd4 5%, #2BC4AD 100%);
+	background-color: #11cdd4;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Quicksand', sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	padding:12px 19px;
+	text-decoration:none;
+	text-shadow:0 0 0 #00000;
+  margin:15px auto;
+}
+.btnc:hover {
+	background:linear-gradient(to bottom, #2BC4AD 5%, #2BC4AD 100%);
+	background-color:#30E3CB;
+}
+.class {
+  background-color: #aeefec;
+  position: relative;
+}
+
+h1 {
+  font-size: 4.375rem;
+  padding-top: 170px;
+  margin: 0;
+  color: #00909e;
+  font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+  font-size: 1.8rem;
+  font-family: 'Neuton', serif;
+  color: #00909e;
+}
+
+h3 {
+  font-family: 'Quicksand', sans-serif;
+  color: #00909e;
+  font-weight: normal;
+}
+
+.p {
+  line-height: 2;
+  color:#00909e;
+}
+
+.pimg1 {
+  position: absolute;
+  top: 60px;
+  right: 280px;
+}
+
+.pimg2 {
+  position: absolute;
+  bottom: 300px;
+  left: 250px;
+}
+
+.p-photo {
+  padding-top: 10px;
+}
+
+.mountain {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.profile {
+  padding: 0;
+}
+
+.skills {
+  margin: 0;
+}
+
+.skill-row {
+  margin: 80px auto 120px auto;
+  text-align: left;
+  line-height: 2;
+  width: 50%;
+}
+
+.cplus {
+  float: left;
+  width: 25%;
+  margin-right: 15px;
+}
+
+.web {
+  float: right;
+  margin-right: 15px;
+  width: 25%;
+}
+
+.middle-container {
+  margin: 50px auto 50px auto;
+}
+
+.bottom-container {
+  padding: 10px;
+  background-color: #abf0e9;
+}
+
+.Insta {
+  text-align: right;
+  padding-right: 10px;
+}
+
+.btn:hover {
+  display: block;
+  color: #11999E;
+}
+
+.footer-link {
+  display: inline-block;
+  margin: 20px;
+  color: #11999E;
+}
+
+.hr {
+  border-style:none;
+  border-top-style:dotted;
+  border-color: grey;
+  border-width: 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 50px auto;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color:#162447;
+}
+
+.copyright{
+  color:#162447;
+  font-size: 0.75em;
+  margin:15px auto;
+}
